@@ -11,7 +11,7 @@ body {
 
     .upper {
         background-color: white;
-        height: fit-content;
+        height: 33.33%;
         margin-left: 15px;
         
         
@@ -28,7 +28,7 @@ body {
         font-weight: bold;
         font-size: 0.9rem;
         margin-top: 20px;
-        margin-right: 150px;
+        margin-right: 60px;
         line-height: 18px;
        }
        .description {
@@ -36,12 +36,13 @@ body {
            font-size: 0.8rem;
            line-height: 20px;
            color: grey;
-           margin-right: 110px;
+           margin-right: 60px;
            
        }
 
        .middle {
            background-color: rgb(26, 161, 161);
+           height: 33.33%;
           
        }
        .ms {
@@ -86,6 +87,7 @@ body {
        }
        .lower {
            background-color:rgb(70, 172, 172) ;
+           height: 33.33%;
            
        }
        .first {
