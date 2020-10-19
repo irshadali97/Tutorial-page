@@ -20,21 +20,21 @@ body {
     .joc {
         color: rgb(70, 186, 221);
         font-weight: bold;
-        font-size: 1.1rem;
+        font-size: 1.2rem;
         margin-top: 30px;
        
     }
     .hassle-free {
         color:rgb(166, 219, 60) ;
         font-weight: bold;
-        font-size: 0.9rem;
+        font-size: 1rem;
         margin-top: 20px;
         margin-right: 60px;
         line-height: 18px;
        }
        .description {
            margin-top: 20px;
-           font-size: 0.8rem;
+           font-size: 15px;
            line-height: 20px;
            color: grey;
            margin-right: 60px;
@@ -49,7 +49,7 @@ body {
           
        }
        .ms {
-           font-size: 1rem;
+           font-size: 18px;
            color: rgb(241, 236, 236);
            margin-top: 15px;
            margin-left: 15px;
@@ -57,7 +57,7 @@ body {
           
        }
        .fee {
-        font-size: 0.8rem;
+        font-size: 14px;
         color:rgb(137, 182, 182);
         margin-top: 15px;
         margin-left: 15px;
@@ -70,7 +70,7 @@ body {
           color: white;
        }
        .third{
-           font-size: 0.8rem;
+           font-size: 15px;
            color:rgb(241, 236, 236) ;
            margin-top: 10px;
            margin-left: 15px;
@@ -96,11 +96,11 @@ body {
        .first {
            color: whitesmoke;
            padding: 15px;
-           font-size: 0.9rem;
+           font-size: 17px;
        }
        .list {
            color: rgb(178, 211, 211) ;
-           font-size: 0.8rem;
+           font-size: 15px;
            padding-left: 15px;
            padding-bottom: 50px;
            line-height: 20px;
