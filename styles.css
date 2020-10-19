@@ -11,9 +11,9 @@ body {
 
     .upper {
         background-color: white;
-        
+        height: 270.67px;
         margin-left: 15px;
-        padding-bottom: 30px;
+        
         
         
     }
@@ -44,7 +44,7 @@ body {
 
        .middle {
            background-color: rgb(26, 161, 161);
-           height: 200px;
+           height: 270.67px;
            padding-bottom: 20px;
           
        }
@@ -90,7 +90,7 @@ body {
        }
        .lower {
            background-color:rgb(70, 172, 172) ;
-           
+           height: 270.67px;
            
        }
        .first {
