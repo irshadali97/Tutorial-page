@@ -1,0 +1,163 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 16px;
+    font-family: 'Karla', sans-serif;
+    }
+
+    .upper {
+        background-color: white;
+        height: fit-content;
+        margin-left: 15px;
+        
+        
+    }
+    .joc {
+        color: rgb(70, 186, 221);
+        font-weight: bold;
+        font-size: 1.1rem;
+        margin-top: 20px;
+       
+    }
+    .hassle-free {
+        color:rgb(166, 219, 60) ;
+        font-weight: bold;
+        font-size: 0.9rem;
+        margin-top: 20px;
+        margin-right: 150px;
+        line-height: 18px;
+       }
+       .description {
+           margin-top: 20px;
+           font-size: 0.8rem;
+           line-height: 20px;
+           color: grey;
+           margin-right: 110px;
+           
+       }
+
+       .middle {
+           background-color: rgb(26, 161, 161);
+          
+       }
+       .ms {
+           font-size: 1rem;
+           color: rgb(241, 236, 236);
+           margin-top: 15px;
+           margin-left: 15px;
+           padding-top: 15px;
+          
+       }
+       .fee {
+        font-size: 0.8rem;
+        color:rgb(137, 182, 182);
+        margin-top: 15px;
+        margin-left: 15px;
+       }
+       span {
+           
+          vertical-align: middle;
+          margin-right: 7px;
+          font-size: 1.5rem;
+          color: white;
+       }
+       .third{
+           font-size: 0.8rem;
+           color:rgb(241, 236, 236) ;
+           margin-top: 10px;
+           margin-left: 15px;
+       }
+       button {
+           margin-top: 15px;
+           margin-left: 15px;
+           margin-bottom: 20px;
+           background-color: rgb(166, 219, 60);
+           color: white;
+           width: 200px;
+           height: 35px;
+           text-align: center;
+           border-radius: 5px;
+           border-style: none;
+           font-weight: 550;
+       }
+       .lower {
+           background-color:rgb(70, 172, 172) ;
+           
+       }
+       .first {
+           color: whitesmoke;
+           padding: 15px;
+           font-size: 0.9rem;
+       }
+       .list {
+           color: rgb(178, 211, 211) ;
+           font-size: 0.8rem;
+           padding-left: 15px;
+           padding-bottom: 15px;
+           line-height: 20px;
+
+       }
+
+       @media (min-width: 1024px) {
+           .upper {
+               margin-top: 25px;
+               margin-right: 300px;
+               margin-bottom: 45px;
+               padding: 35px;
+           }
+           .joc {
+               font-size: 1.5rem;
+               margin-bottom: 25px;
+           }
+           .hassle-free {
+               font-size: 1rem;
+               font-weight: 700;
+               }
+            .description {
+                line-height: 25px;
+                font-size: 15px;
+                font-weight: 500;
+                font-weight: 500;
+                
+            }   
+            .middle {
+                width: 50%;
+                float: left;
+                height: 100vh;
+                padding: 35px;
+                }
+            .lower {
+                width: 50%;
+                float: left;
+                height: 100vh;
+                padding: 35px;
+            }
+            .ms {
+                font-weight: 400;
+                font-size: 1.3rem;
+            }
+            span {
+                font-size: 2rem;
+                font-weight: bold;
+            }
+            .third {
+                font-size: 1rem;
+            } 
+            button {
+                width: 240px;
+                height: 3rem;
+                margin-top: 20px;
+            }
+            .first {
+                font-weight: 400;
+                font-size: 1.3rem;
+            }
+            .list {
+                font-size: 15px;
+            }
+
+       }
